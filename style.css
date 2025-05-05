@@ -1,0 +1,7 @@
+body{
+background: linear-gradient(90deg, rgb(135, 219, 209) 0%, rgba(87, 162, 199, 1) 50%, rgba(0, 115, 117, 1) 100%);
+}
+
+.image{
+    width: 25px;
+}
