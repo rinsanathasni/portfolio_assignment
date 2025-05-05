@@ -5,3 +5,24 @@ background: linear-gradient(90deg, rgb(135, 219, 209) 0%, rgba(87, 162, 199, 1) 
 .image{
     width: 25px;
 }
+
+.profile-container{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 20px;
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+.profile-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid #ccc;
+}
+.profile-description{
+    text-align: left;
+    padding: 10px;
+}
